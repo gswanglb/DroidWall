@@ -1,0 +1,11 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="AppBaseTheme" parent="@android:style/Theme.DeviceDefault.Light" />
+    <style name="AppTheme" parent="@style/AppBaseTheme">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowActionBar">true</item>
+        <item name="colorPrimary">@color/ColorPrimary</item>
+        <item name="colorPrimaryDark">@color/ColorPrimaryDark</item>
+        <item name="colorAccent">@color/ColorAccent</item>
+        </style>
+</resources>

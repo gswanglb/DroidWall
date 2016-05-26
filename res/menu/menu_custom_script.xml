@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.asiainfo.gsbimobile.client.Activity" >
+    <item
+        android:id="@+id/menu_save_script"  
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_button_ok"  
+        android:showAsAction="always"
+        android:title="@string/save"/>
+
+    <item
+        android:id="@+id/menu_discard_script"  
+        android:orderInCategory="200"
+        android:icon="@drawable/ic_button_cancel"  
+        android:showAsAction="always"  
+        android:title="@string/discard"/>
+</menu>

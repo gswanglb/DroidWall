@@ -1,0 +1,332 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$InstantiationException
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentActivity
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost
+android.support.v4.app.FragmentTabHost: FragmentTabHost(android.content.Context)
+android.support.v4.app.FragmentTabHost: FragmentTabHost(android.content.Context,android.util.AttributeSet)
+android.support.v4.app.FragmentTabHost: void setup()
+android.support.v4.app.FragmentTabHost: void setup(android.content.Context,android.support.v4.app.FragmentManager)
+android.support.v4.app.FragmentTabHost: void setup(android.content.Context,android.support.v4.app.FragmentManager,int)
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.NotificationCompatSideChannelService
+android.support.v4.app.SuperNotCalledException
+android.support.v4.content.FileProvider
+android.support.v4.content.ModernAsyncTask$Status
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.content.WakefulBroadcastReceiver
+android.support.v4.media.MediaBrowserCompat$MediaBrowserImplBase$3
+android.support.v4.media.MediaBrowserCompat$MediaItem
+android.support.v4.media.MediaBrowserCompat$MediaItem: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.MediaBrowserServiceCompat
+android.support.v4.media.MediaDescriptionCompat
+android.support.v4.media.MediaDescriptionCompat: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.MediaMetadataCompat
+android.support.v4.media.MediaMetadataCompat: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.RatingCompat
+android.support.v4.media.RatingCompat: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.session.MediaButtonReceiver
+android.support.v4.media.session.MediaSessionCompat$QueueItem
+android.support.v4.media.session.MediaSessionCompat$QueueItem: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.session.MediaSessionCompat$ResultReceiverWrapper
+android.support.v4.media.session.MediaSessionCompat$ResultReceiverWrapper: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.session.MediaSessionCompat$Token
+android.support.v4.media.session.MediaSessionCompat$Token: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.session.ParcelableVolumeInfo
+android.support.v4.media.session.ParcelableVolumeInfo: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.session.PlaybackStateCompat
+android.support.v4.media.session.PlaybackStateCompat: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.session.PlaybackStateCompat$CustomAction
+android.support.v4.media.session.PlaybackStateCompat$CustomAction: android.os.Parcelable$Creator CREATOR
+android.support.v4.os.OperationCanceledException
+android.support.v4.os.ResultReceiver
+android.support.v4.os.ResultReceiver: android.os.Parcelable$Creator CREATOR
+android.support.v4.view.PagerTabStrip
+android.support.v4.view.PagerTabStrip: PagerTabStrip(android.content.Context)
+android.support.v4.view.PagerTabStrip: PagerTabStrip(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setPadding(int,int,int,int)
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: PagerTitleStrip(android.content.Context)
+android.support.v4.view.PagerTitleStrip: PagerTitleStrip(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setTextSize(int,float)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager
+android.support.v4.view.ViewPager: ViewPager(android.content.Context)
+android.support.v4.view.ViewPager: ViewPager(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: int getClientWidth()
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: void setCurrentItem(int,boolean)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setPageTransformer(boolean,android.support.v4.view.ViewPager$PageTransformer)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$LayoutParams
+android.support.v4.view.ViewPager$LayoutParams: ViewPager$LayoutParams(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.ContentLoadingProgressBar
+android.support.v4.widget.ContentLoadingProgressBar: ContentLoadingProgressBar(android.content.Context)
+android.support.v4.widget.ContentLoadingProgressBar: ContentLoadingProgressBar(android.content.Context,android.util.AttributeSet)
+android.support.v4.widget.DrawerLayout
+android.support.v4.widget.DrawerLayout: DrawerLayout(android.content.Context)
+android.support.v4.widget.DrawerLayout: DrawerLayout(android.content.Context,android.util.AttributeSet)
+android.support.v4.widget.DrawerLayout: DrawerLayout(android.content.Context,android.util.AttributeSet,int)
+android.support.v4.widget.DrawerLayout: void setDrawerElevation(float)
+android.support.v4.widget.DrawerLayout: float getDrawerElevation()
+android.support.v4.widget.DrawerLayout: void setChildInsets(java.lang.Object,boolean)
+android.support.v4.widget.DrawerLayout: void setDrawerShadow(android.graphics.drawable.Drawable,int)
+android.support.v4.widget.DrawerLayout: void setDrawerShadow(int,int)
+android.support.v4.widget.DrawerLayout: void setScrimColor(int)
+android.support.v4.widget.DrawerLayout: void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int,int)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int,android.view.View)
+android.support.v4.widget.DrawerLayout: void setDrawerTitle(int,java.lang.CharSequence)
+android.support.v4.widget.DrawerLayout: void setStatusBarBackground(android.graphics.drawable.Drawable)
+android.support.v4.widget.DrawerLayout: android.graphics.drawable.Drawable getStatusBarBackgroundDrawable()
+android.support.v4.widget.DrawerLayout: void setStatusBarBackground(int)
+android.support.v4.widget.DrawerLayout: void setStatusBarBackgroundColor(int)
+android.support.v4.widget.DrawerLayout$LayoutParams
+android.support.v4.widget.DrawerLayout$LayoutParams: DrawerLayout$LayoutParams(android.content.Context,android.util.AttributeSet)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.NestedScrollView
+android.support.v4.widget.NestedScrollView: NestedScrollView(android.content.Context)
+android.support.v4.widget.NestedScrollView: NestedScrollView(android.content.Context,android.util.AttributeSet)
+android.support.v4.widget.NestedScrollView: NestedScrollView(android.content.Context,android.util.AttributeSet,int)
+android.support.v4.widget.NestedScrollView: void setNestedScrollingEnabled(boolean)
+android.support.v4.widget.NestedScrollView: int getNestedScrollAxes()
+android.support.v4.widget.NestedScrollView: float getTopFadingEdgeStrength()
+android.support.v4.widget.NestedScrollView: float getBottomFadingEdgeStrength()
+android.support.v4.widget.NestedScrollView: int getMaxScrollAmount()
+android.support.v4.widget.NestedScrollView: void setOnScrollChangeListener(android.support.v4.widget.NestedScrollView$OnScrollChangeListener)
+android.support.v4.widget.NestedScrollView: void setFillViewport(boolean)
+android.support.v4.widget.NestedScrollView: void setSmoothScrollingEnabled(boolean)
+android.support.v4.widget.NestedScrollView: float getVerticalScrollFactorCompat()
+android.support.v4.widget.NestedScrollView: int getScrollRange()
+android.support.v4.widget.NestedScrollView$SavedState
+android.support.v4.widget.NestedScrollView$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SearchViewCompatIcs$MySearchView
+android.support.v4.widget.SearchViewCompatIcs$MySearchView: SearchViewCompatIcs$MySearchView(android.content.Context)
+android.support.v4.widget.SlidingPaneLayout
+android.support.v4.widget.SlidingPaneLayout: SlidingPaneLayout(android.content.Context)
+android.support.v4.widget.SlidingPaneLayout: SlidingPaneLayout(android.content.Context,android.util.AttributeSet)
+android.support.v4.widget.SlidingPaneLayout: SlidingPaneLayout(android.content.Context,android.util.AttributeSet,int)
+android.support.v4.widget.SlidingPaneLayout: void setParallaxDistance(int)
+android.support.v4.widget.SlidingPaneLayout: int getParallaxDistance()
+android.support.v4.widget.SlidingPaneLayout: void setSliderFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getSliderFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setCoveredFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getCoveredFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawable(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawableLeft(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawableRight(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResource(int)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResourceLeft(int)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResourceRight(int)
+android.support.v4.widget.SlidingPaneLayout$LayoutParams
+android.support.v4.widget.SlidingPaneLayout$LayoutParams: SlidingPaneLayout$LayoutParams(android.content.Context,android.util.AttributeSet)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.Space
+android.support.v4.widget.Space: Space(android.content.Context,android.util.AttributeSet,int)
+android.support.v4.widget.Space: Space(android.content.Context,android.util.AttributeSet)
+android.support.v4.widget.Space: Space(android.content.Context)
+android.support.v4.widget.SwipeRefreshLayout
+android.support.v4.widget.SwipeRefreshLayout: void setColorViewAlpha(int)
+android.support.v4.widget.SwipeRefreshLayout: void setProgressViewOffset(boolean,int,int)
+android.support.v4.widget.SwipeRefreshLayout: void setProgressViewEndTarget(boolean,int)
+android.support.v4.widget.SwipeRefreshLayout: void setSize(int)
+android.support.v4.widget.SwipeRefreshLayout: SwipeRefreshLayout(android.content.Context)
+android.support.v4.widget.SwipeRefreshLayout: SwipeRefreshLayout(android.content.Context,android.util.AttributeSet)
+android.support.v4.widget.SwipeRefreshLayout: void setOnRefreshListener(android.support.v4.widget.SwipeRefreshLayout$OnRefreshListener)
+android.support.v4.widget.SwipeRefreshLayout: void setRefreshing(boolean)
+android.support.v4.widget.SwipeRefreshLayout: void setAnimationProgress(float)
+android.support.v4.widget.SwipeRefreshLayout: void setProgressBackgroundColor(int)
+android.support.v4.widget.SwipeRefreshLayout: void setProgressBackgroundColorSchemeResource(int)
+android.support.v4.widget.SwipeRefreshLayout: void setProgressBackgroundColorSchemeColor(int)
+android.support.v4.widget.SwipeRefreshLayout: void setColorScheme(int[])
+android.support.v4.widget.SwipeRefreshLayout: void setColorSchemeResources(int[])
+android.support.v4.widget.SwipeRefreshLayout: void setColorSchemeColors(int[])
+android.support.v4.widget.SwipeRefreshLayout: void setDistanceToTriggerSync(int)
+android.support.v4.widget.SwipeRefreshLayout: int getProgressCircleDiameter()
+android.support.v4.widget.SwipeRefreshLayout: int getNestedScrollAxes()
+android.support.v4.widget.SwipeRefreshLayout: void setNestedScrollingEnabled(boolean)
+com.asiainfo.droidwall.BootBroadcast
+com.asiainfo.droidwall.BootBroadcast: BootBroadcast()
+com.asiainfo.droidwall.CustomScriptActivity
+com.asiainfo.droidwall.CustomScriptActivity: CustomScriptActivity()
+com.asiainfo.droidwall.HelpActivity
+com.asiainfo.droidwall.HelpActivity: HelpActivity()
+com.asiainfo.droidwall.MainActivity
+com.asiainfo.droidwall.MainActivity: MainActivity()
+com.asiainfo.droidwall.PackageBroadcast
+com.asiainfo.droidwall.PackageBroadcast: PackageBroadcast()
+com.asiainfo.droidwall.R$attr
+com.asiainfo.droidwall.R$attr: int colorAccent
+com.asiainfo.droidwall.R$attr: int colorPrimary
+com.asiainfo.droidwall.R$attr: int colorPrimaryDark
+com.asiainfo.droidwall.R$attr: R$attr()
+com.asiainfo.droidwall.R$color
+com.asiainfo.droidwall.R$color: int ColorAccent
+com.asiainfo.droidwall.R$color: int ColorPrimary
+com.asiainfo.droidwall.R$color: int ColorPrimaryDark
+com.asiainfo.droidwall.R$color: R$color()
+com.asiainfo.droidwall.R$drawable
+com.asiainfo.droidwall.R$drawable: int ic_button_cancel
+com.asiainfo.droidwall.R$drawable: int ic_button_ok
+com.asiainfo.droidwall.R$drawable: int ic_default
+com.asiainfo.droidwall.R$drawable: int ic_launcher
+com.asiainfo.droidwall.R$drawable: int ic_lock_firewall_disable
+com.asiainfo.droidwall.R$drawable: int ic_lock_firewall_enable
+com.asiainfo.droidwall.R$drawable: int ic_settings_security
+com.asiainfo.droidwall.R$drawable: int ic_settings_smart_screen
+com.asiainfo.droidwall.R$drawable: R$drawable()
+com.asiainfo.droidwall.R$id
+com.asiainfo.droidwall.R$id: int custom_script_summary1
+com.asiainfo.droidwall.R$id: int custom_script_summary2
+com.asiainfo.droidwall.R$id: int custom_script_title1
+com.asiainfo.droidwall.R$id: int custom_script_title2
+com.asiainfo.droidwall.R$id: int customscript
+com.asiainfo.droidwall.R$id: int customscript2
+com.asiainfo.droidwall.R$id: int input_password
+com.asiainfo.droidwall.R$id: int itemcheck_data
+com.asiainfo.droidwall.R$id: int itemcheck_wifi
+com.asiainfo.droidwall.R$id: int itemicon
+com.asiainfo.droidwall.R$id: int itemtext
+com.asiainfo.droidwall.R$id: int listview
+com.asiainfo.droidwall.R$id: int menu_apply
+com.asiainfo.droidwall.R$id: int menu_clearlog
+com.asiainfo.droidwall.R$id: int menu_disable
+com.asiainfo.droidwall.R$id: int menu_discard_script
+com.asiainfo.droidwall.R$id: int menu_exit
+com.asiainfo.droidwall.R$id: int menu_help
+com.asiainfo.droidwall.R$id: int menu_mode
+com.asiainfo.droidwall.R$id: int menu_save_script
+com.asiainfo.droidwall.R$id: int menu_setcustom
+com.asiainfo.droidwall.R$id: int menu_setpwd
+com.asiainfo.droidwall.R$id: int menu_showlog
+com.asiainfo.droidwall.R$id: int menu_showrules
+com.asiainfo.droidwall.R$id: int menu_togglelog
+com.asiainfo.droidwall.R$id: int tv_data
+com.asiainfo.droidwall.R$id: int tv_package_name
+com.asiainfo.droidwall.R$id: int tv_wifi
+com.asiainfo.droidwall.R$id: R$id()
+com.asiainfo.droidwall.R$layout
+com.asiainfo.droidwall.R$layout: int activity_custom_script
+com.asiainfo.droidwall.R$layout: int activity_help
+com.asiainfo.droidwall.R$layout: int activity_listitem
+com.asiainfo.droidwall.R$layout: int activity_main
+com.asiainfo.droidwall.R$layout: int activity_password
+com.asiainfo.droidwall.R$layout: R$layout()
+com.asiainfo.droidwall.R$menu
+com.asiainfo.droidwall.R$menu: int menu_custom_script
+com.asiainfo.droidwall.R$menu: int menu_main
+com.asiainfo.droidwall.R$menu: R$menu()
+com.asiainfo.droidwall.R$raw
+com.asiainfo.droidwall.R$raw: int busybox_g1
+com.asiainfo.droidwall.R$raw: int iptables_armv5
+com.asiainfo.droidwall.R$raw: R$raw()
+com.asiainfo.droidwall.R$string
+com.asiainfo.droidwall.R$string: int app_name
+com.asiainfo.droidwall.R$string: int apply
+com.asiainfo.droidwall.R$string: int applying_rules
+com.asiainfo.droidwall.R$string: int applyrules
+com.asiainfo.droidwall.R$string: int clear_log
+com.asiainfo.droidwall.R$string: int custom_script_defined
+com.asiainfo.droidwall.R$string: int custom_script_error
+com.asiainfo.droidwall.R$string: int custom_script_removed
+com.asiainfo.droidwall.R$string: int custom_script_summary1
+com.asiainfo.droidwall.R$string: int custom_script_summary2
+com.asiainfo.droidwall.R$string: int custom_script_title1
+com.asiainfo.droidwall.R$string: int custom_script_title2
+com.asiainfo.droidwall.R$string: int data
+com.asiainfo.droidwall.R$string: int deleting_rules
+com.asiainfo.droidwall.R$string: int discard
+com.asiainfo.droidwall.R$string: int enternewpass
+com.asiainfo.droidwall.R$string: int enterpass
+com.asiainfo.droidwall.R$string: int exit
+com.asiainfo.droidwall.R$string: int fw_disabled
+com.asiainfo.droidwall.R$string: int fw_enabled
+com.asiainfo.droidwall.R$string: int help
+com.asiainfo.droidwall.R$string: int help_dialog_text
+com.asiainfo.droidwall.R$string: int log_cleared
+com.asiainfo.droidwall.R$string: int log_disabled
+com.asiainfo.droidwall.R$string: int log_enabled
+com.asiainfo.droidwall.R$string: int log_was_disabled
+com.asiainfo.droidwall.R$string: int log_was_enabled
+com.asiainfo.droidwall.R$string: int mode_blacklist
+com.asiainfo.droidwall.R$string: int mode_whitelist
+com.asiainfo.droidwall.R$string: int package_name
+com.asiainfo.droidwall.R$string: int pass_titleget
+com.asiainfo.droidwall.R$string: int pass_titleset
+com.asiainfo.droidwall.R$string: int passdefined
+com.asiainfo.droidwall.R$string: int passerror
+com.asiainfo.droidwall.R$string: int passremoved
+com.asiainfo.droidwall.R$string: int please_wait
+com.asiainfo.droidwall.R$string: int purgerules
+com.asiainfo.droidwall.R$string: int reading_apps
+com.asiainfo.droidwall.R$string: int rules_applied
+com.asiainfo.droidwall.R$string: int rules_deleted
+com.asiainfo.droidwall.R$string: int rules_saved
+com.asiainfo.droidwall.R$string: int save
+com.asiainfo.droidwall.R$string: int saverules
+com.asiainfo.droidwall.R$string: int saving_rules
+com.asiainfo.droidwall.R$string: int select_mode
+com.asiainfo.droidwall.R$string: int set_custom_script
+com.asiainfo.droidwall.R$string: int setpwd
+com.asiainfo.droidwall.R$string: int show_log
+com.asiainfo.droidwall.R$string: int showrules
+com.asiainfo.droidwall.R$string: int title_help_activity
+com.asiainfo.droidwall.R$string: int title_main_activity
+com.asiainfo.droidwall.R$string: int toast_bin_installed
+com.asiainfo.droidwall.R$string: int toast_disabled
+com.asiainfo.droidwall.R$string: int toast_enabled
+com.asiainfo.droidwall.R$string: int toast_error_disabling
+com.asiainfo.droidwall.R$string: int toast_error_enabling
+com.asiainfo.droidwall.R$string: int unsaved_changes
+com.asiainfo.droidwall.R$string: int unsaved_changes_message
+com.asiainfo.droidwall.R$string: int wifi
+com.asiainfo.droidwall.R$string: int working
+com.asiainfo.droidwall.R$string: R$string()
+com.asiainfo.droidwall.R$style
+com.asiainfo.droidwall.R$style: int AppBaseTheme
+com.asiainfo.droidwall.R$style: int AppTheme
+com.asiainfo.droidwall.R$style: R$style()

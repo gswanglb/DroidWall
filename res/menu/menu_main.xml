@@ -1,0 +1,72 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.asiainfo.droidwall.MainActivity" >
+
+    <item
+        android:id="@+id/menu_disable"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_lock_firewall_enable"
+        android:title="@string/fw_enabled"/>
+
+    <item
+        android:id="@+id/menu_mode"
+        android:orderInCategory="200"
+        android:showAsAction="never"
+        android:title="@string/mode_whitelist"/>
+
+    <item
+        android:id="@+id/menu_togglelog"
+        android:orderInCategory="300"
+        android:showAsAction="never"
+        android:title="@string/log_enabled"/>
+
+    <item
+        android:id="@+id/menu_showlog"
+        android:orderInCategory="400"
+        android:showAsAction="never"
+        android:title="@string/show_log"/>
+
+    <item
+        android:id="@+id/menu_clearlog"
+        android:orderInCategory="500"
+        android:showAsAction="never"
+        android:title="@string/clear_log"/>
+
+    <item
+        android:id="@+id/menu_apply"
+        android:orderInCategory="600"
+        android:showAsAction="never"
+        android:title="@string/applyrules"/>
+
+    <item
+        android:id="@+id/menu_showrules"
+        android:orderInCategory="700"
+        android:showAsAction="never"
+        android:title="@string/showrules"/>
+
+    <item
+        android:id="@+id/menu_setpwd"
+        android:orderInCategory="800"
+        android:showAsAction="never"
+        android:title="@string/setpwd"/>
+
+    <item
+        android:id="@+id/menu_setcustom"
+        android:orderInCategory="900"
+        android:showAsAction="never"
+        android:title="@string/set_custom_script"/>
+
+    <item
+        android:id="@+id/menu_help"
+        android:orderInCategory="1000"
+        android:showAsAction="never"
+        android:title="@string/help"/>
+
+    <item
+        android:id="@+id/menu_exit"
+        android:orderInCategory="1100"
+        android:showAsAction="never"
+        android:title="@string/exit"/>
+
+</menu>

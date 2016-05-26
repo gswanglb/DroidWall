@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:44
+-keep class com.asiainfo.droidwall.BootBroadcast { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class com.asiainfo.droidwall.CustomScriptActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class com.asiainfo.droidwall.HelpActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class com.asiainfo.droidwall.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class com.asiainfo.droidwall.PackageBroadcast { <init>(...); }
+
